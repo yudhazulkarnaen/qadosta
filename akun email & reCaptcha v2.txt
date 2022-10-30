@@ -1,0 +1,9 @@
+Email Qadosta
+===========================
+email = qadosta@gmail.com
+password = qualityassurance
+
+Key localhost reCaptcha
+===========================
+site key = 6LeOXMMZAAAAAJCr66fl8Gu0uKtGTQRt8EDlrIjc
+secret key = 6LeOXMMZAAAAAP4iKhk9vYSCqO58sw2YBJBWZkbq
